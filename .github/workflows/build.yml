@@ -1,3 +1,5 @@
+name: Build Standalone Node CLI
+
 on:
   - push
   - pull_request
