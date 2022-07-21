@@ -1,9 +1,9 @@
 [![.github/workflows/pnpmCI2.yml](https://github.com/serg-by/nexttailpnpm/actions/workflows/pnpmCI2.yml/badge.svg)](https://github.com/serg-by/nexttailpnpm/actions/workflows/pnpmCI2.yml)
 
 
-### Next.js Tailwind temlate (PNPM package)
+## Next.js Tailwind temlate (PNPM package)
 
-## Getting Started
+### Getting Started
 
 - `pnpm i` - This command installs a package, and any packages that it depends on.
 - `pnpm run dev` - First, run the development server.
@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 
-# Overview
+### Overview
 
 - `components/*` - Various components.
 - `pages/*` - All other static pages.
