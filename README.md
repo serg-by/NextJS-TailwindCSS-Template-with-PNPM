@@ -1,7 +1,9 @@
 [![Build Standalone Node CLI](https://github.com/serg-by/nexttailpnpm/actions/workflows/build.yml/badge.svg)](https://github.com/serg-by/nexttailpnpm/actions/workflows/build.yml)
-[![GitHub release](https://img.shields.io/github/release/serg-by/nexttailpnpm?include_prereleases=&sort=semver&color=brightgreen)](https://github.com/serg-by/nexttailpnpm/releases/)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/serg-by/nexttailpnpm?color=brightgreen)
 [![GitHub version](https://badge.fury.io/gh/serg-by%2Fnexttailpnpm.svg)](https://badge.fury.io/gh/serg-by%2Fnexttailpnpm)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](#license)
+
+
 
 ## Next.js Tailwind temlate (PNPM package)
 
@@ -23,3 +25,11 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `pages/*` - All other static pages.
 - `public/*` - Static elements, including fonts and images.
 - `styles/*` - Global styles and css modules. Core Tailwind CSS library.
+
+
+### Package
+![npm](https://img.shields.io/npm/v/node?color=blue&label=node&style=for-the-badge)
+![pnpm](https://img.shields.io/npm/v/pnpm?color=blue&label=pnpm&style=for-the-badge)
+![npm](https://img.shields.io/npm/v/next?color=blue&label=next.js&style=for-the-badge)
+![npm](https://img.shields.io/npm/v/tailwind?color=blue&label=tailwindss&style=for-the-badge)
+![npm](https://img.shields.io/npm/v/react?color=blue&label=react&style=for-the-badge)
