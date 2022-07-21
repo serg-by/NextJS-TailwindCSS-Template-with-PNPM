@@ -1,6 +1,7 @@
 [![Build Standalone Node CLI](https://github.com/serg-by/nexttailpnpm/actions/workflows/build.yml/badge.svg)](https://github.com/serg-by/nexttailpnpm/actions/workflows/build.yml)
-[![GitHub release](https://img.shields.io/github/release/serg-by/nexttailpnpm?include_prereleases=&sort=semver&color=green)](https://github.com/serg-by/nexttailpnpm/releases/)
-[![License](https://img.shields.io/badge/License-MIT-green)](#license)
+[![GitHub release](https://img.shields.io/github/release/serg-by/nexttailpnpm?include_prereleases=&sort=semver&color=brightgreen)](https://github.com/serg-by/nexttailpnpm/releases/)
+[![GitHub version](https://badge.fury.io/gh/serg-by%2Fnexttailpnpm.svg)](https://badge.fury.io/gh/serg-by%2Fnexttailpnpm)
+[![License](https://img.shields.io/badge/License-MIT-brightgreen)](#license)
 
 ## Next.js Tailwind temlate (PNPM package)
 
