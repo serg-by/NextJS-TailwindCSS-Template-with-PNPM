@@ -5,24 +5,30 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/.github/workflows/nextjs-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/.github/workflows/nextjs-dark.svg">
-    <img alt="Next.js" src="/.github/workflows/nextjs-dark.svg" width="143" height="70">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/workflows/nextjs-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./.github/workflows/nextjs-dark.svg">
+    <img alt="Next.js" src="./.github/workflows/nextjs-dark.svg" width="143" height="70">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/.github/workflows/tailwind-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/.github/workflows/tailwind-dark.svg">
-    <img alt="Tailwind CSS" src="/.github/workflows/tailwind-dark.svg" width="350" height="70">
+    <source media="(prefers-color-scheme: dark)" srcset="./.github/workflows/tailwind-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./.github/workflows/tailwind-dark.svg">
+    <img alt="Tailwind CSS" src="./.github/workflows/tailwind-dark.svg" width="350" height="70">
   </picture>
 </div>
 
+------
 ## Next.js Tailwind temlate (PNPM package)
 
 ### Getting Started
+```
+make setup - install project dependencies
 
-- `pnpm i` - This command installs a package, and any packages that it depends on.
-- `pnpm run dev` - First, run the development server.
+make start - start the project
 
+make test - run all project tests
+
+make build - build the project
+```
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -37,6 +43,10 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `public/*` - Static elements, including fonts and images.
 - `styles/*` - Global styles and css modules. Core Tailwind CSS library.
 
+### For details on how to use Next.js and Tailwind, check out the documentation.
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind](https://tailwindcss.com/)
 
 ### Package
 ![npm](https://img.shields.io/npm/v/node?color=blue&label=node&style=for-the-badge)
