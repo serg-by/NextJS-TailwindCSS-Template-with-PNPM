@@ -3,7 +3,18 @@
 [![GitHub version](https://badge.fury.io/gh/serg-by%2Fnexttailpnpm.svg)](https://badge.fury.io/gh/serg-by%2Fnexttailpnpm)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](#license)
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/.github/workflows/nextjs-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/.github/workflows/nextjs-dark.svg">
+    <img alt="Next.js" src="/.github/workflows/nextjs-dark.svg" width="143" height="70">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/.github/workflows/tailwind-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/.github/workflows/tailwind-dark.svg">
+    <img alt="Tailwind CSS" src="/.github/workflows/tailwind-dark.svg" width="350" height="70">
+  </picture>
+</div>
 
 ## Next.js Tailwind temlate (PNPM package)
 
